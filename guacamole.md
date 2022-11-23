@@ -1,6 +1,6 @@
 # Ingreditents
 - Avacado 
-- Lemon
+- Lime
 - Salt
 
 # Instructions
